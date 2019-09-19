@@ -1,4 +1,4 @@
-install: sudo ./gradlew wrapper --gradle-version 5.4.1
+install: gradle assemble
 
 language: java
 
