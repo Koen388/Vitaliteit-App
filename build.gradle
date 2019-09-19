@@ -26,8 +26,8 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-android {
-    lintOptions {
-        abortOnError false
-    }
-}
+// android {
+//     lintOptions {
+//         abortOnError false
+//     }
+// }
