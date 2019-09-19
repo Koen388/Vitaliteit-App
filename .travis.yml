@@ -1,4 +1,4 @@
-install: ./gradlew wrapper --gradle-version 5.4.1
+install: sudo ./gradlew wrapper --gradle-version 5.4.1
 
 language: java
 
