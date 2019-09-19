@@ -1,4 +1,4 @@
-install: gradle assemble
+install: ./gradlew assemble
 
 language: java
 
