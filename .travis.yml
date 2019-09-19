@@ -1,6 +1,6 @@
-install: ./gradlew assemble
+install: gradle check
 
 language: java
 
 jdk:
-  - oraclejdk9
+  - oraclejdk11
